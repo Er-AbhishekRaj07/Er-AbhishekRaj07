@@ -2,27 +2,26 @@
 
 I love coding in C/C++ :snake:. Currently , I am pursuming Btech from [Graphic Era University](https://www.geu.ac.in/) as ECE Engineer &  Software Developer.
 
-# Owner of [September World Pvt Ltd](http://www.septemebrworld.com/) .
-
-<!--
+## Owner of [September World Pvt Ltd](http://www.septemebrworld.com/) .
 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+
+ ###⚡ Fun fact:
+ 
+- 🔭 I’m currently working on Chord-DHT (P2P-NETWORK) 
+- 🌱 I’m currently learning JavaScript and mathematics required for ML and Data Science.
+- :pencil2: I teach students uses of  different Languages on free days.
+- :musical_note: I love to create and hear country music.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about ####startups 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-⚡ Fun fact:
-- 👯 I’m looking to collaborate on projects that are using Python.
-- 🌱 I’m currently learning JavaScript and mathematics required for ML and Data Science.
-- :pencil2: I Write blogs on dev.to on free days.
-- :musical_note: I love to hear country music.
+
+
 
 
 ### Let's Connect :coffee:
