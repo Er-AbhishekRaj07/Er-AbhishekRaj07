@@ -9,7 +9,7 @@ I love coding in C/C++ :snake:. Currently , I am pursuming Btech from [Graphic E
 
 ⚡ Fun fact:
  
-  - 🔭 I’m currently working on Chord-DHT (P2P-NETWORK) and its simulation on Web3.0
+  - 🔭 I’m currently working on Chord-DHT (P2P-NETWORK) and its simulation on Web3.0 with @rythem123
   - 🌱 I’m currently learning JavaScript and mathematics required for ML and Data Science.
   - :pencil2: I teach students uses of  different Languages on free days.
   - :musical_note: I love to create and hear country music.
