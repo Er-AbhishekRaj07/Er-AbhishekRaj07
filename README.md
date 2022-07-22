@@ -1,6 +1,6 @@
 ![alt text](./images/top.svg)
 
-I love coding in Coding :snake:. I work at [Estylo](https://estylo.in/) as a Python Developer and occassionally participate in hackathons.
+I love coding in Coding :snake:. Currently , I am pursuming Btech from [Graphic Era University](https://www.geu.ac.in/) as a ECE Engineer , Software Developer and occassionally .
 
 <!--
 
