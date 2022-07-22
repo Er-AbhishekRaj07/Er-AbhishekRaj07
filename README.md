@@ -1,6 +1,8 @@
 ![alt text](./images/top.svg)
 
-I love coding in Coding :snake:. Currently , I am pursuming Btech from [Graphic Era University](https://www.geu.ac.in/) as a ECE Engineer , Software Developer and occassionally .
+I love coding in C/C++ :snake:. Currently , I am pursuming Btech from [Graphic Era University](https://www.geu.ac.in/) as ECE Engineer &  Software Developer.
+
+# Owner of [September World Pvt Ltd](http://www.septemebrworld.com/) .
 
 <!--
 
