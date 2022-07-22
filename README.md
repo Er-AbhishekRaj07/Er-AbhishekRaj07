@@ -1,9 +1,9 @@
 ![alt text](./images/top.svg)
 
-I love coding in Python :snake:. I work at [Estylo](https://estylo.in/) as a Python Developer and occassionally participate in hackathons.
+I love coding in Coding :snake:. I work at [Estylo](https://estylo.in/) as a Python Developer and occassionally participate in hackathons.
 
 <!--
-**sisodiya2421/sisodiya2421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
