@@ -2,7 +2,7 @@
 
 I love coding in C/C++ :snake:. Currently , I am pursuming Btech from [Graphic Era University](https://www.geu.ac.in/) as ECE Engineer &  Software Developer.
 
-## Owner of [September World](http://www.septemebrworld.com/) .
+## Owner of [September World](http://www.septemebrworld.com/) 
 
 
 
