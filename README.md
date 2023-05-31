@@ -22,8 +22,8 @@ I love coding in C/C++ :snake:. Currently , I am pursuming Btech from [Graphic E
 <p align="center">
 	<a href="https://github.com/Er-AbhishekRaj07"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/abhishekheresw/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/asisodiya2421/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/whoabhishekraj/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href=><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/abhishek.pandey.511/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	
 	
 	
