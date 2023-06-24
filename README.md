@@ -1,6 +1,6 @@
 ![alt text](./images/top.svg)
 
-I love DSA in C++ and Machine Learning in :snake:. Currently , I am graduated in Btech from [Graphic Era University](https://www.geu.ac.in/) as ECE Engineer & Software Developer.
+I love DSA in C++ and Machine Learning in :snake:. Currently , I am graduated from [Graphic Era University](https://www.geu.ac.in/) as ECE Engineer .
 
 # Open Source Contributor at Omdena 
 
