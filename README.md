@@ -1,19 +1,21 @@
 ![alt text](./images/top.svg)
 
-I love coding in C/C++ :snake:. Currently , I am pursuming Btech from [Graphic Era University](https://www.geu.ac.in/) as ECE Engineer &  Software Developer.
+I love DSA in C++ and Machine Learning in :snake:. Currently , I am graduated in Btech from [Graphic Era University](https://www.geu.ac.in/) as ECE Engineer & Software Developer.
+
+# Open Source Contributor at Omdena 
 
 ## Owner of [September World](http://www.septemebrworld.com/) 
 
 
 
-
 ⚡ Fun fact:
  
+  - 🔭 I’m currently working on Omdena-[Predictive Urban Rental & Airbnb Pricing in Kenya]( https://github.com/Er-AbhishekRaj07/Omdena-Kenya-Predictive-Rental )
   - 🔭 I’m currently working on Chord-DHT (P2P-NETWORK) and its simulation on Web3.0 with [RYTHEM SHARMA]( http://www.github.com/rythem123)
-  - 🌱 I’m currently learning JavaScript and mathematics required for ML and Data Science.
-  - :pencil2: I teach students uses of  different Languages on free days.
-  - :musical_note: I love to create and hear country music.
-  - 💬 Ask me about startups,technologies,Web3.0 
+  - 🌱 I’m currently learning new models of machine learning and deep learning .
+  - :pencil2: I teach students on free days.
+  - :musical_note: I love to listen music.
+  - 💬 Ask me about startups,technologies,Web3.0,Artificial Intelligence 
   
   ## How to reach me: 
 
